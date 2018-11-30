@@ -1,3 +1,3 @@
 # hello-world
-Nothing important here
+Nothing important here.
 It's my first project.
