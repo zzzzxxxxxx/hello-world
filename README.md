@@ -1,3 +1,50 @@
-# hello-world
-Nothing important here.
-It's my first project.
+##动画库--https://www.jianshu.com/p/c00aab2e19d3
+```
+Three.js
+```
+https://github.com/mrdoob/three.js/
+```
+Anime.js
+```
+https://github.com/juliangarnier/anime
+```
+Mo.js
+```
+https://github.com/legomushroom/mojs
+```
+Velocity
+```
+https://github.com/julianshapiro/velocity
+```
+Popmotion
+```
+https://github.com/Popmotion/popmotion
+```
+GreenSock JS
+```
+https://github.com/greensock/GreenSock-JS
+```
+Kute.js
+```
+https://github.com/thednp/kute.js/
+```
+Typed.js
+```
+https://github.com/mattboldt/typed.js
+```
+Animate.css
+```
+https://github.com/daneden/animate.css
+```
+Magic Animations (CSS)
+```
+https://github.com/miniMAC/magic
+```
+CSShake (CSS)
+```
+https://github.com/elrumordelaluz/csshake
+```
+Hover (CSS)
+```
+https://github.com/IanLunn/Hover
+```
